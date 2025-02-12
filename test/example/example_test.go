@@ -12,7 +12,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/goccy/go-json"
+	"github.com/Chi-Go/go-json"
 )
 
 func ExampleMarshal() {
